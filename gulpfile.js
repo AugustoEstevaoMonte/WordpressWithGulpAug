@@ -28,7 +28,7 @@ function jsTask() {
 // Browsersync
 function browserSyncServe(cb) {
 	browsersync.init({
-		proxy: 'http://localhost/portfolioDev/wordpress/',
+		proxy: 'http://localhost/portfolioDev/wordpress/', //Change here to fit to your folder path
 		notify: {
 			styles: {
 				top: 'auto',

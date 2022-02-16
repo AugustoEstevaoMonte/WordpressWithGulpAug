@@ -1,9 +1,9 @@
 {
-  "name": "gulp-sass-boilerplate",
+  "name": "wordpressWithGulpAug",
   "version": "1.0.0",
-  "description": "Minimal Gulp workflow to compile Sass",
+  "description": "Minimal Gulp workflow to compile Sass and Javascript and Browser reload with Wordpress",
   "keywords": [],
-  "author": "Jessica Chan (Coder Coder)",
+  "author": "Augusto Estevão Monte",
   "license": "ISC",
   "dependencies": {
     "@babel/core": "^7.14.8",
@@ -13,7 +13,6 @@
     "cssnano": "^5.0.6",
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
-    "gulp-imagemin": "^8.0.0",
     "gulp-postcss": "^9.0.0",
     "gulp-sass": "^5.0.0",
     "gulp-terser": "^2.0.1",
